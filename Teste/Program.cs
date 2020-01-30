@@ -8,6 +8,8 @@ namespace Teste
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
+            int n = int.Parse(Console.ReadLine());
+            Console.WriteLine($"Digitado: {n}");
         }
     }
 }
