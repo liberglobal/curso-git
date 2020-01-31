@@ -11,6 +11,7 @@ namespace Teste
             int n = int.Parse(Console.ReadLine());
             Console.WriteLine($"Digitado: {n}");
             Console.WriteLine("Good Night");
+            Console.WriteLine("OTIMO DIA!");
         }
     }
 }
